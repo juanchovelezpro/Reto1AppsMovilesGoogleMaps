@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reto1AppsMovilesGMapsJVelez</string>
+    <string name="crear_marcador">Crear marcador</string>
+    <string name="nombre_marcador">Nombre Marcador:</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
